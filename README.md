@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @jaderror
 - 👀 I’m interested in learning more about tech world 
-- 🌱 I’m currently learning programming logic
+- 🌱 I’m currently learning UX/UI Design and Inovation
 - 💞️ I’m looking to collaborate on whatever makes me improve my skills
-- 📫 How to reach me LinkedIn jademoraes-
+- 📫 How to reach me LinkedIn jadelumof
 
 <!---
 jaderror/jaderror is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
